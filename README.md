@@ -61,5 +61,27 @@ Italic: Use single asterisks or underscores (*italic* or _italic_).
 Horizontal Rule: Use three dashes, asterisks, or underscores.
 
 ---
+## How to Open Jupyter Notebook
+
+1. Open **Anaconda Prompt**.
+2. Navigate to the storage partition (e.g., `H:`):
+   
+   ```bash
+   H:
+   cd 1.1
+   cd 1.1
+   jupyter notebook
+   ```
+
+open anconda prompt 
+h:               (Storage partition location
+cd 1.1 (tab)     (Folder location, first letter or number then press tab key to auto select the folder, 1.1 is my folder name's first three charectars)
+cd 1.1 (tab)
+Jupyter notebook
+
+
+
+---
+
 
 
