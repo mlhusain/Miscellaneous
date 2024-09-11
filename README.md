@@ -49,11 +49,17 @@ You can find the backtick key (`` ` ``) on most keyboards, usually located just 
 
 
 Images: Use the ![]() syntax to add images.
+
 Links: Use [Link text](URL) to add hyperlinks.
+
 Inline Code: Use single backticks (`) for inline code.
+
 Bold: Use double asterisks or underscores (**bold** or __bold__).
+
 Italic: Use single asterisks or underscores (*italic* or _italic_).
-Horizontal Rule: Use three dashes, asterisks, or underscores. 
+
+Horizontal Rule: Use three dashes, asterisks, or underscores.
+
 ---
 
 
