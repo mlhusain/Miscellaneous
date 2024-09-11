@@ -31,50 +31,26 @@ Unordered List: Use -, *, or + for bullet points.
 Ordered List: Use numbers followed by a period.
 
 SQL Script Window:
-Code Blocks: Use triple backticks (```) with the language identifier to format code blocks.
-```sql
-SELECT * FROM table_name;
-
-```Certainly! Here’s a brief overview of how to format various elements in a GitHub Markdown file, which is commonly used for README files and documentation.
-Title and Subtitles
-
-    Title: Use # for the main title. You can use up to six # symbols for subheadings.
-
-    markdown
-
-    # Main Title
-    ## Sub Title
-    ### Sub-Sub Title
-
-Bullet Points
-
-    Unordered List: Use -, *, or + for bullet points.
-
-    markdown
-
-- Item 1
-- Item 2
-  - Sub-item 2.1
-  - Sub-item 2.2
-
-Ordered List: Use numbers followed by a period.
-
-markdown
-
-    1. First item
-    2. Second item
-       1. Sub-item 2.1
-
-SQL Script Window
-
-    Code Blocks: Use triple backticks (```) with the language identifier to format code blocks.
-
-    markdown
+Code Blocks: Use triple backticks (```) along with a language identifier (like sql, python, etc.) to format code blocks. For example:
 
 ```sql
-SELECT * FROM table_name;
+select* from Table_Name;
+```
+
+```python
+print("Hello World")
+```
+To close the code block, place another set of triple backticks (```) on a new line immediately below the last line of code.
+
+You can find the backtick key (`` ` ``) on most keyboards, usually located just below the `Esc` key.
+
+---
+
+This version should be easier to understand and provides clearer instructions on how to use code blocks and where to find the backtick key.
+
 
 Image Insertion
+
 
 
 
