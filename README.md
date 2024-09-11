@@ -22,3 +22,60 @@
     Click "Commit changes" to upload the file(s) to the repository.
 
 Your file(s) should now be uploaded and visible in the repository!
+
+## Github Markdown Formatting 
+Title: Use # for the main title. You can use up to six # symbols for subheadings.
+
+Bullet Points:
+Unordered List: Use -, *, or + for bullet points.
+Ordered List: Use numbers followed by a period.
+
+SQL Script Window:
+Code Blocks: Use triple backticks (```) with the language identifier to format code blocks.
+```sql
+SELECT * FROM table_name;
+
+```Certainly! Here’s a brief overview of how to format various elements in a GitHub Markdown file, which is commonly used for README files and documentation.
+Title and Subtitles
+
+    Title: Use # for the main title. You can use up to six # symbols for subheadings.
+
+    markdown
+
+    # Main Title
+    ## Sub Title
+    ### Sub-Sub Title
+
+Bullet Points
+
+    Unordered List: Use -, *, or + for bullet points.
+
+    markdown
+
+- Item 1
+- Item 2
+  - Sub-item 2.1
+  - Sub-item 2.2
+
+Ordered List: Use numbers followed by a period.
+
+markdown
+
+    1. First item
+    2. Second item
+       1. Sub-item 2.1
+
+SQL Script Window
+
+    Code Blocks: Use triple backticks (```) with the language identifier to format code blocks.
+
+    markdown
+
+```sql
+SELECT * FROM table_name;
+
+Image Insertion
+
+
+
+
