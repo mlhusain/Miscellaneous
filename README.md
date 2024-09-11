@@ -22,6 +22,7 @@
     Click "Commit changes" to upload the file(s) to the repository.
 
 Your file(s) should now be uploaded and visible in the repository!
+---
 
 ## Github Markdown Formatting 
 Title: Use # for the main title. You can use up to six # symbols for subheadings.
@@ -46,12 +47,13 @@ You can find the backtick key (`` ` ``) on most keyboards, usually located just 
 
 ---
 
-This version should be easier to understand and provides clearer instructions on how to use code blocks and where to find the backtick key.
 
-
-Image Insertion
-
-
-
+Images: Use the ![]() syntax to add images.
+Links: Use [Link text](URL) to add hyperlinks.
+Inline Code: Use single backticks (`) for inline code.
+Bold: Use double asterisks or underscores (**bold** or __bold__).
+Italic: Use single asterisks or underscores (*italic* or _italic_).
+Horizontal Rule: Use three dashes, asterisks, or underscores. 
+---
 
 
