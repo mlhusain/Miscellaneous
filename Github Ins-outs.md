@@ -21,7 +21,7 @@
 
     Click "Commit changes" to upload the file(s) to the repository.
 
-Your file(s) should now be uploaded and visible in the repository!
+
 ---
 
 ## Github Markdown Formatting 
